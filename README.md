@@ -15,4 +15,8 @@ Olá!! eu sou a Vitória Ribeiro
   <img align="center" width="30" height="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
    <img align="center" width="30" height="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
    <img align="center" width="30" height="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</div><br>
+
+<div>
+<a href="mailto:vitoriagracas.ribeiro@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
