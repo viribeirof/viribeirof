@@ -1,8 +1,4 @@
-Olá!! eu sou a Vitória Ribeiro
-
-- 🔭 Estudante de ciência da computação 
-- 🌱 Estudando java e php
-- ❄️ Pronomes: ela/dela
+Olá!! Eu sou a Vitória Ribeiro
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=viribeirof&show_icons=true&theme=transparent&hide_border=true&title_color=4805b0&icon_color=4805b0&text_color=6c48a3" style="margin-right: 10px;" />
@@ -18,7 +14,8 @@ Olá!! eu sou a Vitória Ribeiro
 </div><br>
 
 <div>
-<a href="mailto:vitoriagracas.ribeiro@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://wa.me/5549999552922?text=Olá!" target"_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:vitoriagracas.ribeiro@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="ttps://www.instagram.com/veegrf" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/5549999552922?text=Olá!" target"_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </div>
