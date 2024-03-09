@@ -5,8 +5,8 @@ Olá!! eu sou a Vitória Ribeiro
 - ❄️ Pronomes: ela/dela
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=viribeirof&show_icons=true&theme=transparent&hide_border=true" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viribeirof&langs_count=8&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viribeirof&show_icons=true&theme=transparent&hide_border=true&title_color=4805b0&icon_color=4805b0&text_color=6c48a3" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viribeirof&langs_count=8&theme=transparent&hide_border=true&title_color=4805b0&icon_color=4805b0&text_color=6c48a3" />
 </div>
 
 <div style="display: inline_block"><br>
