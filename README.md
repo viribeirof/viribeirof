@@ -17,6 +17,6 @@ Olá!! Eu sou a Vitória Ribeiro
 
 <div>
   <a href="mailto:vitoriagracas.ribeiro@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/vitória-ribeiro-bb9487320" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-ribeiro-bb9487320/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
