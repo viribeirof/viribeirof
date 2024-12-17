@@ -1,8 +1,8 @@
 Olá!! Eu sou a Vitória Ribeiro
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=viribeirof&show_icons=true&theme=transparent&hide_border=true&title_color=4805b0&icon_color=4805b0&text_color=6c48a3" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viribeirof&langs_count=8&theme=transparent&hide_border=true&title_color=4805b0&icon_color=4805b0&text_color=6c48a3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viribeirof&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;count_private=true&amp;hide=contribs"style="margin-right: 10px;">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viribeirof&amp;layout=compact&amp;langs_count=7&amp;theme=midnight-purple"></a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -11,8 +11,12 @@ Olá!! Eu sou a Vitória Ribeiro
   <img align="center" width="30" height="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
    <img align="center" width="30" height="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
    <img align="center" width="30" height="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" width="30" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
 </div><br>
 
 <div>
   <a href="mailto:vitoriagracas.ribeiro@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/vitória-ribeiro-bb9487320" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </div>
